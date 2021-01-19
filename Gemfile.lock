@@ -187,6 +187,7 @@ GEM
       nokogiri (~> 1.8)
 
 PLATFORMS
+  universal-darwin-20
   x86_64-darwin-19
 
 DEPENDENCIES
@@ -206,4 +207,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   2.2.4
+   2.2.5
